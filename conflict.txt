@@ -1,2 +1,3 @@
 this is going to conflict and i going to resolve
 this line is clean
+this line is also clean
